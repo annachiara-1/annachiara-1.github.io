@@ -1,0 +1,60 @@
+body {
+    font-family: "Fira Code", monospace;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("italy.jpeg");
+    background-attachment: fixed;
+
+    /* Full height */
+    height: 100vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nyhead {
+    font-size: 3.5 em;
+    margin-top: 5%;
+
+}
+
+.nyhead2 {
+    font-size: 3.5em;
+    margin-top: 10%;
+}
+
+.white-shadow {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+.align-middle {
+    margin-top: 15%;
+}
+
+p {
+    text-indent: 30px;
+    text-align: left;
+}
+
+.main {
+    background-color: pink;
+    margin-top: 42%;
+    padding: 50px;
+}
+
+p {
+    text-indent: 30px;
+    text-align: left;
+    font-size
+}
+
+p2 {
+    text-indent: 30px;
+    text-align: left;
+    font-size: 0.5em;
+}
